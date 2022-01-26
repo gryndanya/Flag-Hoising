@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FlagHoisting", "FlagHoisting\FlagHoisting.vcxproj", "{2A90B477-12D3-45E4-B134-28A7AF51D6EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A90B477-12D3-45E4-B134-28A7AF51D6EA}.Debug|x64.ActiveCfg = Debug|x64
+		{2A90B477-12D3-45E4-B134-28A7AF51D6EA}.Debug|x64.Build.0 = Debug|x64
+		{2A90B477-12D3-45E4-B134-28A7AF51D6EA}.Debug|x86.ActiveCfg = Debug|Win32
+		{2A90B477-12D3-45E4-B134-28A7AF51D6EA}.Debug|x86.Build.0 = Debug|Win32
+		{2A90B477-12D3-45E4-B134-28A7AF51D6EA}.Release|x64.ActiveCfg = Release|x64
+		{2A90B477-12D3-45E4-B134-28A7AF51D6EA}.Release|x64.Build.0 = Release|x64
+		{2A90B477-12D3-45E4-B134-28A7AF51D6EA}.Release|x86.ActiveCfg = Release|Win32
+		{2A90B477-12D3-45E4-B134-28A7AF51D6EA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69014A01-3F51-4572-9073-BD9C828A6574}
+	EndGlobalSection
+EndGlobal
